@@ -1,4 +1,4 @@
-;;; number-serparator.el --- Separate long integers -*- lexical-binding: t; -*-
+;;; number-separator.el --- Separate long integers -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2020 Jeff Filipovits
 
@@ -33,9 +33,9 @@
 
 ;;;; Installation and usage
 
-;;; Put number-serparator.el into your load path and:
+;;; Put number-separator.el into your load path and:
 ;;; (require 'number-seprator)
-;;; (number-serparator-mode)
+;;; (number-separator-mode)
 
 ;;;; Tips
 
